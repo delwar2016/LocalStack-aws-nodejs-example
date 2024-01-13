@@ -1,0 +1,1 @@
+# LocalStack-aws-nodejs-example
